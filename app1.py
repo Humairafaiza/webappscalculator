@@ -2,7 +2,7 @@ import streamlit as st
 
 def main():
     st.title("Umayy pencipta Magic Kalkulator")
-    st.write("Aplikasi ini menghitung operasi dasar matematika seperti penjumlahan, pengurangan, perkalian, dan pembagian.")
+    st.write("Halo Teman teman disini saya menciptakan suatu apps yang dimana bisa digunakanuntuk pengoperasian dasar matematika.")
     
     # Input angka pertama
     num1 = st.number_input("Masukkan angka pertama:", value=0.0, step=1.0)
